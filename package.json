@@ -1,0 +1,22 @@
+{
+  "name": "gude-tunes-backend",
+  "version": "0.1.0",
+  "description": "Backend Services for Gude Tunes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanTheManGude/gude-tunes-backend.git"
+  },
+  "keywords": [
+    "spotify"
+  ],
+  "author": "Daniel Gude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanTheManGude/gude-tunes-backend/issues"
+  },
+  "homepage": "https://github.com/DanTheManGude/gude-tunes-backend#readme"
+}
